@@ -1,2 +1,2 @@
-# fyndv1
-AI Enabled Evening Planner -> Restaurant focus
+# Fynd - Version 1
+AI Enabled Evening Planner with a Restaurant focus
