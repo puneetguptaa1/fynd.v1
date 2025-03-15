@@ -3,3 +3,8 @@ channels:
   - defaults
 dependencies:
 - flask
+- json
+- time
+- os
+- requests
+- dotenv
