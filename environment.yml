@@ -1,0 +1,5 @@
+name: fynd-v1
+channels:
+  - defaults
+dependencies:
+- flask
