@@ -2,9 +2,8 @@
 AI Enabled Evening Planner with a Restaurant focus
 
 ## Prerequisites
-- [Ollama](https://ollama.ai/) must be installed and running locally on port `11434` (Port Currently hardcoded Oopsies).
-  - Download and install Ollama from [here](https://ollama.ai/).
-  - I am using llama3.2 3b (2gb)
+- Ollama must be installed and running locally on port `11434` (Port is currently hardcoded, oopsies!).
+  - Download and install Ollama from [here](https://ollama.ai/). (I am using llama3.2 3b)
   - Start the Ollama server by running:
     ```
     ollama serve
