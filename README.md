@@ -10,6 +10,6 @@ AI Enabled Evening Planner with a Restaurant focus
     ```
 - Yelp Search API key which should be free for the first month (5000 calls)
 
-## Next Steps
-- As of 03/14/2025:
+## Notes
+- 03/14/2025:
     - Review Yelp's Search API documentation (https://docs.developer.yelp.com/reference/v3_business_search) and update the LLM-based parameter parsing to align with Yelp's predefined parameters.
