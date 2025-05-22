@@ -1,5 +1,6 @@
-# Fynd - Version 1
-AI Enabled Evening Planner with a Restaurant focus
+# Fynd - AI-assisted Dining Recommendations
+
+Fynd is an AI-assisted web service that allows users to make natural-language dining requests and receive a curated list of restaurant recommendations that match their criteria.
 
 ## Features
 
@@ -110,3 +111,5 @@ This is phase 1 of the project, focusing on the backend AI integration. Future p
 - Third-party API integration (Yelp, Google Places)
 - Structured data processing
 - Deployed containerization with Docker
+- Prompt engineering for improved LLM response quality
+- Caching mechanism for faster response times
