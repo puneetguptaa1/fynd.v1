@@ -1,6 +1,7 @@
-# Fynd - AI-assisted Dining Recommendations
+# Fynd - Version 1
+AI enabled evening planner with a restaurant focus.
 
-Fynd is an AI-assisted web service that allows users to make natural-language dining requests and receive a curated list of restaurant recommendations that match their criteria.
+Fynd is an AI-assisted web service that allows users to make natural-language requests and receive a curated list of restaurant recommendations that match their criteria.
 
 ## Features
 
